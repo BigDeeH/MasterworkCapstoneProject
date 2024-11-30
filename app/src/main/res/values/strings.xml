@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Masterwork Capstone Project</string>
+    <string name="home">Home</string>
+    <string name="quiz">Create Quiz</string>
+    <string name="question">Enter your question here.</string>
+    <string name="response">Select the response type for this question:</string>
+    <string name="answer">Enter your Answer</string>
+    <string name="add_question">Add Qustion</string>
+    <string name="save">Save</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="create_a_quiz">Create Quiz</string>
+    <string name="quiz_screen">Quiz Screen</string>
+</resources>
